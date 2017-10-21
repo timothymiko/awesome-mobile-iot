@@ -34,3 +34,11 @@ A collection of resources for Internet of Things mobile apps. The goal of this p
 | Fossil Q | Smart watch and activity tracking | [iOS](https://itunes.apple.com/us/app/fossil-q/id1027370544?mt=8) | [Android](https://play.google.com/store/apps/details?id=com.fossil.wearables.fossil&hl=en) | [Website](https://www.fossil.com/us/en/wearable-technology.html)
 | Pebble | Smart watch | [iOS](https://itunes.apple.com/us/app/pebble/id957997620) | [Android](https://play.google.com/store/apps/details?id=com.getpebble.android.basalt) | [Website](https://www.pebble.com)
 | Wink | Smart home dashboard | [iOS](https://itunes.apple.com/us/app/wink-smart-home/id719287124) | [Android](https://play.google.com/store/apps/details?id=com.quirky.android.wink.wink) | [Website](https://www.wink.com)
+| Whoop | Recovery and workout tracker for athletes | [iOS](https://itunes.apple.com/us/app/whoop-performance-optimization/id933944389) | [Android](https://play.google.com/store/apps/details?id=com.whoop.android) | [Website](https://whoop.com)
+| Halo Sport | Brain stimulation for athletes | [iOS](https://itunes.apple.com/us/app/halo-sport/id1145104454) | [Android](https://play.google.com/store/apps/details?id=com.haloneuro.halo) | [Website](https://www.haloneuro.com)
+| Oura Ring | Health and activity tracking | [iOS](https://itunes.apple.com/us/app/%C5%8Dura/id1043837948) | [Android](https://play.google.com/store/apps/details?id=com.ouraring.oura) | [Website](https://ouraring.com)
+| Muse | Brain sensing headband for meditation | [iOS](https://itunes.apple.com/us/app/muse-the-brain-sensing-headband/id849841170) | [Android](https://play.google.com/store/apps/details?id=com.interaxon.muse) | [Website](http://www.choosemuse.com)
+| Sense | Sleep tracking | [iOS](https://itunes.apple.com/us/app/sense-the-insightful-sleep-system/id942698761) | [Android](https://play.google.com/store/apps/details?id=is.hello.sense) | [Website](https://hello.is)
+
+
+
