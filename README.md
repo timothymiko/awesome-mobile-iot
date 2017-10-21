@@ -39,6 +39,12 @@ A collection of resources for Internet of Things mobile apps. The goal of this p
 | Oura Ring | Health and activity tracking | [iOS](https://itunes.apple.com/us/app/%C5%8Dura/id1043837948) | [Android](https://play.google.com/store/apps/details?id=com.ouraring.oura) | [Website](https://ouraring.com)
 | Muse | Brain sensing headband for meditation | [iOS](https://itunes.apple.com/us/app/muse-the-brain-sensing-headband/id849841170) | [Android](https://play.google.com/store/apps/details?id=com.interaxon.muse) | [Website](http://www.choosemuse.com)
 | Sense | Sleep tracking | [iOS](https://itunes.apple.com/us/app/sense-the-insightful-sleep-system/id942698761) | [Android](https://play.google.com/store/apps/details?id=is.hello.sense) | [Website](https://hello.is)
+| Bragi | Companion app for Dash intelligent headphones | [iOS](https://itunes.apple.com/us/app/bragi/id1038828258) | [Android](https://play.google.com/store/apps/details?id=com.bragi.thedash.app) | [Website](https://www.bragi.com)
+| Vicks SmartTemp | Smart Thermometer | [iOS](https://itunes.apple.com/us/app/vicks-smarttemp-thermometer/id960106666) | [Android](https://play.google.com/store/apps/details?id=kaz.bluetooththermandroid) | [Website](https://www.vickshumidifiers.com/shop/thermometers/vicks-smarttemp-thermometer)
+| Phillips Hue | Connected light bulbs | [iOS](https://itunes.apple.com/us/app/philips-hue/id1055281310) | [Android](https://play.google.com/store/apps/details?id=com.philips.lighting.hue2) | [Website](https://www.meethue.com)
+| Tile | Personal object tracking (keys, wallet, etc.) | [iOS](https://itunes.apple.com/us/app/tile-find-lost-keys-phone/id664939913) | [Android](https://play.google.com/store/apps/details?id=com.thetileapp.tile) | [Website](https://www.thetileapp.com)
+
+
 
 
 
