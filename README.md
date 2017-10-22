@@ -43,8 +43,8 @@ A collection of resources for Internet of Things mobile apps. The goal of this p
 | Vicks SmartTemp | Smart Thermometer | [iOS](https://itunes.apple.com/us/app/vicks-smarttemp-thermometer/id960106666) | [Android](https://play.google.com/store/apps/details?id=kaz.bluetooththermandroid) | [Website](https://www.vickshumidifiers.com/shop/thermometers/vicks-smarttemp-thermometer)
 | Phillips Hue | Connected light bulbs | [iOS](https://itunes.apple.com/us/app/philips-hue/id1055281310) | [Android](https://play.google.com/store/apps/details?id=com.philips.lighting.hue2) | [Website](https://www.meethue.com)
 | Tile | Personal object tracking (keys, wallet, etc.) | [iOS](https://itunes.apple.com/us/app/tile-find-lost-keys-phone/id664939913) | [Android](https://play.google.com/store/apps/details?id=com.thetileapp.tile) | [Website](https://www.thetileapp.com)
-
-
+| Wink | Smart home automation | [iOS](https://itunes.apple.com/us/app/wink-smart-home/id719287124) | [Android](https://play.google.com/store/apps/details?id=com.quirky.android.wink.wink) | [Website](https://www.wink.com)
+| Nest | Smart home devices | [iOS](https://itunes.apple.com/us/app/nest-your-home-in-your-hand/id464988855) | [Android](https://play.google.com/store/apps/details?id=com.nest.android) | [Website](https://nest.com)
 
 
 
