@@ -132,3 +132,5 @@ A collection of resources for Internet of Things mobile apps. The goal of this p
 | Athos | Health | - | Connected clothing for athletes | [iOS](https://itunes.apple.com/us/app/athos/id927190993) | - | [Website](https://www.liveathos.com)
 | Atlas | Health | - | Workout tracker wristband | [iOS](https://itunes.apple.com/us/app/atlas-workout-tracker/id911847102) | [Android](https://play.google.com/store/apps/details?id=com.atlaswearables.ionic) | [Website](https://www.atlaswearables.com/app)
 | Train with Push | Health | - | Workout tracker wristband | [iOS](https://itunes.apple.com/us/app/train-with-push/id903431035) | - | [Website](https://www.trainwithpush.com)
+| Kardia | Health | - | Medical-grade FDA-approved EKG tracker | [iOS](https://itunes.apple.com/us/app/kardia/id579769143) | [Android](https://play.google.com/store/apps/details?id=com.alivecor.aliveecg) | [Website](https://www.alivecor.com)
+| Kello | Health | - | Sleep training alarm clock | [iOS](https://itunes.apple.com/us/app/kello-sleep-training-alarm-clock/id1229994953) | - | [Website](https://www.getkello.com)
